@@ -1,6 +1,6 @@
 # TimezoneJS.Date jQuery Adapter
   
-This is a simple extension to [TimezoneJS](https://github.com/mde/timezone-js) that enables it to work with [jQuery](http://jquery.com/). 
+This is a simple extension to [TimezoneJS](https://github.com/mde/timezone-js) that enables it to work with [jQuery](http://jquery.com/) by defining a custom loadZoneFile(). 
 
 # Setup
 
