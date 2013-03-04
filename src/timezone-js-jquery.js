@@ -36,7 +36,7 @@
         var self = this;
         jQuery.ajax({
             url: url,
-            async: !!opts.async,
+            async: !opts.async,
             dataType: 'text',
             success: function (str) {
                 if (self.parseZones(str)) {
